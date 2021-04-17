@@ -5,7 +5,7 @@
 ![shopping cart](https://i.imgur.com/s2Qxc9Z.jpg)
 
 
-DEMO: https://ironptsolutions.github.io/lab-dom-ironhack-cart/
+DEMO: https://ironptsolutions.github.io/lab-dom-ironhack-cart/index.html
 
 ## Introduction
 
